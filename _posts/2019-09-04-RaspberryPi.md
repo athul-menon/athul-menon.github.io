@@ -2,7 +2,7 @@
 layout: post
 title: Raspberry Pi
 subtitle: 
-image: /img/raspberrypi.png
+image: /img/raspi.jpg
 tags: [bios, technology, hardware]
 ---
 
