@@ -20,12 +20,12 @@ description: A place to put down the everflowing waterfall of thoughts in my min
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
+  #Blog: "blog"
   About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://athulmenon.com"
+  #Author's home: "http://athulmenon.com"
   Additional links: 
     -Github :"https://github.com/Athul17x"
   
