@@ -27,7 +27,7 @@ navbar-links:
     #- Learn markdown: "http://www.markdowntutorial.com/"
   #Author's home: "http://athulmenon.com"
   Additional links: 
-    -Github :"https://github.com/Athul17x"
+    -Github: "https://github.com/Athul17x"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
